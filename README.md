@@ -68,23 +68,7 @@ Jupyter Notebook	Documentation and reproducibility
 Python (Optional)	Data processing and automation
 Power BI / Excel	Data visualization and dashboards
 GitHub	Version control and portfolio presentation
-📂 Repository Structure
-India-LokSabha-Elections-2024-SQL-Analysis/
 
-│
-├── README.md
-│
-├── SQL_Scripts/
-│   ├── seats_by_state.sql
-│   ├── alliance_performance.sql
-│   ├── constituency_analysis.sql
-│   └── up_statistics.sql
-│
-├── Reports/
-│   └── Executive_Summary.pdf
-│
-└── Visualizations/
-    └── PowerBI_Dashboard.pbix
 
 📊 Key Insights
 
