@@ -1,4 +1,5 @@
 India Lok Sabha Election Results 2024 – SQL Analytics Project
+
 📌 Overview
 
 This project analyzes the 2024 India Lok Sabha Election Results using SQL. The goal is to transform raw election datasets into meaningful analytical insights at the state, constituency, and alliance levels.
