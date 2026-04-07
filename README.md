@@ -64,10 +64,8 @@ Creating portfolio-ready analytical documentation
 ⚙️ Tools & Technologies
 Tool	Purpose
 SQL	Core language for data querying and analysis
-MySQL / PostgreSQL / SQL Server	Database management
+MySQL
 Jupyter Notebook	Documentation and reproducibility
-Python (Optional)	Data processing and automation
-Power BI / Excel	Data visualization and dashboards
 GitHub	Version control and portfolio presentation
 
 
